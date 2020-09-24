@@ -1,0 +1,80 @@
+.first {
+    float: center; 
+    text-align: 0px;
+
+}
+
+#jumbotron {
+    background-color: lightblue;
+    padding: 4px 2rem;
+    border: black solid 10px;
+    
+}
+
+.forwards{
+    float: right;
+    font-size: large;
+    font-family: monospace;
+    
+}
+
+.welcome{
+    font-family: "Sofia";
+    text-align: center;
+    font-size: 60px;
+    color: darkcyan;
+
+}
+
+.info{
+    font-family: "Aldrich";
+}
+#jumbotron2 {
+    background-color: lightblue;
+    padding: 4px 2rem;
+    border: black solid 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+#forms{
+    text-align: center;
+    color: darkblue;
+}
+
+.center1 {
+    margin-left: 425px;
+    font-family: 'lekton';
+    color: darkgreen;
+}
+.ellie3 {
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Cinzel';
+    font-size: 60px;
+    
+}
+
+.jason5{
+    text-align: center;
+    color: goldenrod;
+    font-family: 'Aref Ruqaa';
+    font-size: 60px;
+
+}
+
+.click{
+    text-align: center;
+    font-family: 'Mate SC';
+    color: indigo;
+}
+body{
+    border: solid black 10px;
+}
+
+
+
+
+
+
